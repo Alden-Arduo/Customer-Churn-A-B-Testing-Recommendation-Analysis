@@ -14,9 +14,13 @@ Key Objectives
 4.	Produce ETL-ready outputs for seamless integration with dashboards or BI tools.
 ________________________________________
 Data Simulation and Features
+
 •	Customer Dataset: 500 simulated customers with features: tenure, monthly usage, and support tickets.
+
 •	Churn Modeling: Churn probability is realistically based on feature patterns—short tenure, low usage, or high support ticket counts increase the likelihood of churn.
+
 •	Product Ratings Dataset: 10 users with ratings for 10 movies/music products, simulating user preferences for personalized recommendations.
+
 ________________________________________
 Methodology
 1.	Churn Prediction:
@@ -48,11 +52,14 @@ o	high_risk_customers_ab_test.csv → all high-risk customers with A/B group ass
  
 
 User ID	Recommended Product 1	Recommended Product 2	Recommended Product 3
+
 User_1	Inception (3.8)	Interstellar (3.6)	Parasite (3.5)
+
 User_2	The Godfather (3.7)	La La Land (3.6)	Avengers: Endgame (3.5)
+
 User_3	Bohemian Rhapsody (4.0)	The Dark Knight (3.8)	Inception (3.7)
 
- 
+
 ________________________________________
 Business Impact
 
