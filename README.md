@@ -4,7 +4,8 @@ Executive Summary:
 Customer Churn Prediction & Personalized Recommendation Pipeline
 Developed an end-to-end data science workflow to predict high-risk customers, deliver personalized product recommendations, and evaluate retention strategies using A/B testing. Built a Random Forest model to identify churn based on tenure, usage, and support interactions, and implemented item-item collaborative filtering for tailored recommendations. Conducted A/B testing to measure the impact of interventions on reducing churn, producing ETL-ready outputs for dashboard integration.
 Customer Churn Prediction, Personalized Recommendations, and A/B Testing Pipeline
-Project Overview
+
+Project Overview:
 This project demonstrates an end-to-end data science pipeline designed to help businesses predict customer churn, deliver personalized product recommendations, and measure the impact of retention strategies through A/B testing. The workflow integrates feature engineering, machine learning, recommendation systems, and experimental design into a single, actionable pipeline.
 ________________________________________
 Key Objectives
