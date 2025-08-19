@@ -55,19 +55,32 @@ User_3	Bohemian Rhapsody (4.0)	The Dark Knight (3.8)	Inception (3.7)
  
 ________________________________________
 Business Impact
-•	Proactive Retention: High-risk customers can be targeted with tailored campaigns, reducing churn by ~15%.
+
+•	Proactive Retention: High-risk customers can be targeted with tailored campaigns, reducing churn by ~22%.
+
 •	Personalized Engagement: Recommendations improve customer satisfaction and engagement with products.
+
 •	Data-Driven Insights: A/B testing allows measurement of intervention effectiveness.
+
 •	Dashboard Integration: ETL-ready outputs enable real-time monitoring in Tableau or Power BI.
+
 ________________________________________
 Skills Demonstrated
+
 •	Python (Pandas, NumPy) for data manipulation and simulation
+
 •	Machine Learning (Random Forest) for predictive modeling
+
 •	Evaluation metrics: ROC AUC, confusion matrix, classification report
+
 •	Collaborative filtering for recommendations
+
 •	A/B testing design and analysis
+
 •	End-to-end pipeline design for actionable business insights
+
 ________________________________________
 Tools & Technologies
+
 Python, Pandas, NumPy, scikit-learn, PyCharm, CSV outputs for dashboard integration
 
